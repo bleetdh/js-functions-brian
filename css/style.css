@@ -1,0 +1,9 @@
+body{
+  background-color: rgb(108, 33, 50);
+  color: rgb(201, 219, 219);
+}
+.wrapper{
+  width:600px;
+  margin: 100px auto;
+  padding: 10px 10px;
+}
